@@ -1,3 +1,3 @@
-# Bank-mamnagement-system
+# Miniprojects
 
-Regarding CS mini prject 2
+Regarding CS mini prject 
